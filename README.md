@@ -4,8 +4,8 @@
 
 An interactive intelligence dashboard predicting tourism-linked rail mobility demand across Malaysia. Built as the official submission for the **DOSM Datathon 2026** by Team *The Outliers*.
 
-## Dashboard Preview
-> **[View Full PDF Report](./TheOutliers_Datathon2026_Report.pdf)**
+## Video Demo & Report
+> **[?? Watch Video Demo](https://github.com/jefflaw0618-jpg/DOSM-Datathon-2026/blob/master/TheOutliers_Datathon2026_Video.mp4)** | **[View PDF Report](./TheOutliers_Datathon2026_Report.pdf)**
 
 ## Problem Statement
 Balancing tourism demand with infrastructure capacity is a critical challenge. **TourismBalance AI** addresses this by combining state-level tourism intelligence with machine-learning-driven rail mobility forecasting. It provides actionable demand forecasts (Day 1 to Day 7), relative demand classifications, and smart lower-demand travel guidance for public commuters and stakeholders.
